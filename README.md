@@ -4,7 +4,7 @@
 
 A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
-## 🛠️ Installation
+## Installation
 
 #### Make a backup of your current nvim and shared folder
 
@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://codeberg.org/shakakibara/neo-dots ~/.config/nvim
 ```
 
 #### Start Neovim
