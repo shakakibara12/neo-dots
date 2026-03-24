@@ -38,11 +38,6 @@ return {
     -- enable servers that you already have installed without mason
     -- make sure to install them in system.
     servers = {
-      "rust_analyzer",
-      "pyright",
-      "eslint",
-      "ruff",
-      "denols",
     },
     -- customize language server configuration options passed to `lspconfig`
     ---@diagnostic disable: missing-fields
